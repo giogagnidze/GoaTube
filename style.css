@@ -129,9 +129,14 @@ hr {
   flex-wrap: wrap;
 }
 
-.photo {
+.photo{
   width: 310px;
   margin-bottom: 30px;
+  border-radius: 20px;
+}
+
+.photo img {
+  border-radius: 8px;
 }
 
 .thumbnail {
